@@ -2,7 +2,7 @@
 
 This project sets up a basic **AWS cloud infrastructure** using **Terraform**. It's designed as a foundational DevOps project that provisions a complete environment to host a public EC2 instance.
 
----
+
 
 ## 🚀 What It Does
 
@@ -13,7 +13,7 @@ This project sets up a basic **AWS cloud infrastructure** using **Terraform**. I
 * Generates an **SSH configuration file** to easily connect to the instance
 * Attaches a **security group** that allows all inbound/outbound traffic *(for development purposes only)*
 
----
+
 
 ## 🚠️ Technologies Used
 
@@ -22,7 +22,7 @@ This project sets up a basic **AWS cloud infrastructure** using **Terraform**. I
 * **Ubuntu 24.04 AMI**
 * **PowerShell / Local-Exec Provisioner**
 
----
+
 
 ## 📁 Project Structure
 
@@ -36,7 +36,7 @@ This project sets up a basic **AWS cloud infrastructure** using **Terraform**. I
 ├── README.md             # Project documentation
 ```
 
----
+
 
 ## ⚙️ Prerequisites
 
@@ -49,7 +49,7 @@ Before running this project, make sure you have the following set up **(locally 
 
 > ℹ️ If you're running this in GitHub Codespaces, you’ll need to manually upload credentials, SSH keys, or use a remote backend for state. Codespaces won’t inherit local AWS credentials by default.
 
----
+
 
 ## 🧪 How to Use
 
