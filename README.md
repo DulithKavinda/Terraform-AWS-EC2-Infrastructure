@@ -15,7 +15,7 @@ This project sets up a basic **AWS cloud infrastructure** using **Terraform**. I
 
 
 
-## 🚠️ Technologies Used
+##  Technologies Used
 
 * **Terraform** (\~> 5.0)
 * **AWS** (VPC, EC2, Subnet, Internet Gateway, Security Group)
@@ -42,16 +42,16 @@ This project sets up a basic **AWS cloud infrastructure** using **Terraform**. I
 
 Before running this project, make sure you have the following set up **(locally or in GitHub Codespaces)**:
 
-* ✅ **AWS CLI** configured with a profile named `VScode`
-* ✅ **Terraform** installed (`terraform -version`)
-* ✅ An **SSH key pair** (e.g., `~/.ssh/mtckey` and `~/.ssh/mtckey.pub`)
-* ✅ An **AWS account** with permissions to create EC2, VPC, Subnet, etc.
-
-> ℹ️ If you're running this in GitHub Codespaces, you’ll need to manually upload credentials, SSH keys, or use a remote backend for state. Codespaces won’t inherit local AWS credentials by default.
+*  **AWS CLI** configured with a profile named `VScode`
+*  **Terraform** installed (`terraform -version`)
+*  An **SSH key pair** (e.g., `~/.ssh/mtckey` and `~/.ssh/mtckey.pub`)
+*  An **AWS account** with permissions to create EC2, VPC, Subnet, etc.
 
 
 
-## 🧪 How to Use
+
+
+##  How to Use
 
 ### 1. Clone the Repository
 
