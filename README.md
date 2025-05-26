@@ -17,7 +17,7 @@ This project sets up a basic **AWS cloud infrastructure** using **Terraform**. I
 
 ## 🚠️ Technologies Used
 
-* **Terraform** (\~> 1.0)
+* **Terraform** (\~> 5.0)
 * **AWS** (VPC, EC2, Subnet, Internet Gateway, Security Group)
 * **Ubuntu 24.04 AMI**
 * **PowerShell / Local-Exec Provisioner**
