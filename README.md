@@ -95,7 +95,7 @@ Then connect via:
 ssh dev-node
 ```
 
-### 6. Destroy Resources
+### 6. Destroy Resources:
 
 To clean up and destroy all the provisioned resources:
 
